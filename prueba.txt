@@ -2,10 +2,6 @@ este es un texto que
 lo puse para hacer pruebas con git
 
 
-esta es la direccion de el curso de go
+esta es la direccion de el curso de mañana nos enfocaremos en su vida laboral
 
 c/Program Files/Go/src/curso_goland_platzi/src
-
-comienso mi segundo intento con git
-
-Hoy hablaremos de su vida y obra maestra
