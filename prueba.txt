@@ -1,0 +1,7 @@
+este es un texto que 
+lo puse para hacer pruebas con git
+
+
+esta es la direccion de el curso de go
+
+c/Program Files/Go/src/curso_goland_platzi/src
